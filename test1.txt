@@ -1,2 +1,3 @@
 git init  //creer un dossier localement .git
 git status // situation des modification localement ajout ou supp
+;lsckqslkc
